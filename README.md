@@ -20,6 +20,8 @@
 
 <br/>  
 
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=C1en_QwQ&show_icons=true&theme=tokyonight)
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
