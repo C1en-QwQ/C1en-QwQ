@@ -20,7 +20,7 @@
 
 <br/>  
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=C1en_QwQ&show_icons=true&theme=tokyonight)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=C1en&show_icons=true&theme=tokyonight)
 
 
 ## My Skill Set  
